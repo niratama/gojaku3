@@ -22,6 +22,8 @@ class: center
 
 以前にChiba.pmで発表した、Perl+Mojoliciousを使ってスライドにTweetをリアルタイム表示する仕組みのサーバ部分をGolangで実装してみた
 
+ハッシュタグ`#gojaku`をつけてツイートしてみよう！
+
 ＿人人人人人人人人人人人人＿<br>
 ＞　NHK NEWS WEBのパクり　＜<br>
 ￣Y^Y^Y^Y^Y^Y^Y^Y^Y^Y^Y￣

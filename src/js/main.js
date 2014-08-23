@@ -24,7 +24,7 @@ $(function () {
     progressPanel.resize();
   });
 
-  var ws = new WebSocket('ws://localhost:3000/search?q=golang,go弱,go言語');
+  var ws = new WebSocket('ws://localhost:3000/search?q=golang,go弱,go言語,%23gojaku');
   ws.onmessage = function (e) {
     var msg = JSON.parse(e.data);
     tweetPanel.add(msg);
