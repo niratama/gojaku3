@@ -5,4 +5,4 @@
 * [スライド(PDF版)](./slide.pdf)
 * [スライドのソース(Markdown)](./src/md/slide.md)
 * [サーバのソース](./twstream/twstream.go)
-* [サーバ(Goroutine+chan利用版)のソース](./twstream/twstream.go)
+* [サーバ(Goroutine+chan利用版)のソース](./twstream_goroutine/twstream.go)
