@@ -1,10 +1,12 @@
 class: center, middle
+
 # Golangでいろいろ試してみた
 
 Go弱の会 3弱
 
 ---
 class: center
+
 ## 自己紹介
 
 ![Avatar](https://pbs.twimg.com/profile_images/497934309735415809/sCM9H_lU_bigger.jpeg)
@@ -18,6 +20,7 @@ Perlが主戦場<br>
 
 ---
 class: center
+
 ## とりあえずなんか書いてみた
 
 以前にChiba.pmで発表した、Perl+Mojoliciousを使ってスライドにTweetをリアルタイム表示する仕組みのサーバ部分をGolangで実装してみた
@@ -188,6 +191,7 @@ timeout, _ = time.ParseDuration(timeoutString)
 
 ---
 class: center
+
 今回の資料とファイルはGitHubに置いておきます
 
 https://github.com/niratama/gojaku3
